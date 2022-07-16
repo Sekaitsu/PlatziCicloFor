@@ -1,0 +1,15 @@
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\bin\Debug\net6.0\platziForCicle.exe
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\bin\Debug\net6.0\platziForCicle.deps.json
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\bin\Debug\net6.0\platziForCicle.runtimeconfig.json
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\bin\Debug\net6.0\platziForCicle.dll
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\bin\Debug\net6.0\platziForCicle.pdb
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\platziForCicle.csproj.AssemblyReference.cache
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\platziForCicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\platziForCicle.AssemblyInfoInputs.cache
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\platziForCicle.AssemblyInfo.cs
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\platziForCicle.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\platziForCicle.dll
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\refint\platziForCicle.dll
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\platziForCicle.pdb
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\platziForCicle.genruntimeconfig.cache
+C:\Users\lbernate\source\repos\platziForCicle\platziForCicle\obj\Debug\net6.0\ref\platziForCicle.dll
